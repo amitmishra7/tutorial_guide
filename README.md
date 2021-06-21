@@ -205,4 +205,8 @@ This repository is only for providing information on `tutorial_coach_mark`. Plea
 
 * [Amit Mishra](https://github.com/amitmishra7)
 
+<<<<<<< HEAD
 If you like this tutorial please don't forget to add a **Star**. Also follow to get informed for upcoming tutorials.
+=======
+If you like this tutorial please don't forget to add a **Star**. Also follow to get informed for upcoming tutorials.
+>>>>>>> 562ac1f7994ee2f20ce0c7bb0c5e3c8d82d1ee14
